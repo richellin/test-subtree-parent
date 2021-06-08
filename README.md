@@ -1,5 +1,8 @@
 # test-subtree-parent
 
+- [test-subtree-child](https://github.com/richellin/test-subtree-child)
+- [test-submodule-child](https://github.com/richellin/test-submodule-child)
+
 ## 手順
 
 ### ターゲットを登録
